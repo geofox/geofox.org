@@ -20,7 +20,7 @@ theme = "hugo-tranquilpeak-theme"
 disqusShortname = "geofox"
 # googleAnalytics = "UA-123-45"
 paginate = 7
-canonifyurls = true
+canonifyurls = false
 
 [permalinks]
   post = "/:year/:month/:slug/"
