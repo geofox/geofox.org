@@ -96,6 +96,13 @@ canonifyurls = true
   name = "Facebook"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
   url = "http://fb.me/geoffrey.richard"
+  
+[[menu.links]]
+  weight = 4
+  identifier = "keybase"
+  name = "Keybase (PGP key)"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-key\"></i>"
+  url = "https://keybase.io/geoffrey"
 
 [[menu.misc]]
   weight = 1
