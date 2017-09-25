@@ -18,9 +18,9 @@ defaultContentLanguage = "en-us"
 title = "Geoffrey Richard"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "geofox"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-23907973-1"
 paginate = 7
-canonifyurls = false
+canonifyURLs = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
