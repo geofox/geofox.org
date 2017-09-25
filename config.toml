@@ -100,7 +100,7 @@ canonifyurls = true
 [[menu.links]]
   weight = 4
   identifier = "keybase"
-  name = "Keybase (PGP key)"
+  name = "Keybase (PGP)"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-key\"></i>"
   url = "https://keybase.io/geoffrey"
 
