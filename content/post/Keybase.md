@@ -1,4 +1,4 @@
----
+﻿---
 title: "[FR] Keybase.io, le cryptage pour tous"
 date: 2014-06-07
 categories:
@@ -6,6 +6,7 @@ categories:
 - encryption
 tags:
 - keybase
+- end-to-end
 - pgp
 - gpg
 - blog
