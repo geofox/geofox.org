@@ -1,7 +1,7 @@
 ﻿---
 title: "Take Back Your Privacy and Security - Part 1 - Secure your Passwords"
 date: 2017-10-31
-slug: password-manager
+slug: "password-manager"
 categories:
 - tech
 - encryption
