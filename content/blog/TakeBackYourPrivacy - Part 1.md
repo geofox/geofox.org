@@ -49,12 +49,14 @@ Arguably, using open-source software and hosting your password database on a dev
 
 #### Free and open-source : KeePass
 ![KeePass](/img/keepass.png)
+
 [Keepass](https://keepass.info/) is an open source password manager. The advantage of open source security tools is that they're open to review by the public. You could look at the code to make sure that the software does what it says. KeePass is available on Windows, Linux and Mac. The databases are encrypted using good encryption algorithms (AES and Twofish). Some developers have ported KeePass on [iOS](http://simpleanywhere.com/syncpass/index.html), [Android](http://www.keepassdroid.com/), [Windows Phone](https://www.microsoft.com/en-us/store/p/winpass/9nblggh5z10k), and there's even a [Chrome extension](https://perfectapi.github.io/CKP/). Other ports exists but I've selected those that are open source and relatively up-to-date.
 
 KeePass is, in my opinion, the only viable open-source Password Manager out there. It's a great choice if free and open-source is a requierement for you. It's a great cross-platform tool that allows you to be in complete control of your data.
 
 #### Paid and closed-source : 1Password
 ![1Password](/img/1Password.png)
+
 [1Password](https://1password.com/) by AgilteBits Inc. is a password manager initially created for Mac and iOS. It now supports Android and Windows but those versions are not as polished as their iOs and macOS counterparts (they're functional). 1Password hosts your encrypted passwords on their servers (hosted on Amazon Web Services) so they're accessible everywhere you have internet (it is also cached on your devices for offline access). To encrypt your password database, 1Password  uses a combination of your Master Password and a Secret Key. AgileBits claims that, combined with a strong Master Password, the Secret Key gives you more than 128 bits of entropy. It uses AES-256 encryption with PBKDF2 key derivation. They've publish a [White Paper](https://1password.com/files/1Password%20for%20Teams%20White%20Paper.pdf) explaining their security design.
 
 1Password doesn't have a free plan. It will cost you 2.99$ a month, billed annually. They also offer family and team plans.
