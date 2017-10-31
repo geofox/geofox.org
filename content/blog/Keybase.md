@@ -1,5 +1,6 @@
 ﻿---
 title: "[FR] Keybase.io, le cryptage pour tous"
+author: Geoffrey Richard
 date: 2014-06-07
 categories:
 - tech
@@ -11,17 +12,9 @@ tags:
 - gpg
 - blog
 - encryption
-keywords:
-- disqus
-- google
-- gravatar
 aliases:
-- /fr-keybase-io-le-cryptage-pour-tous-787852cce109
-autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: /img/castle-thumb.jpg
-coverImage: /img/castle.jpg
-metaAlignment: center
+- /2014/06/fr-keybase.io-le-cryptage-pour-tous/
+type: post
 ---
 De plus en plus, les violations de la vie privée, que ce soit par les gouvernements ou encore par les entreprises auxquelles vous confiez vos données, deviennent monnaie courante. Les services de renseignements de nombreux pays interceptent vos emails, les serveurs de Google analysent vos courriels afin de vous présenter des publicités pertinentes : l’email est l’équivalent, en terme de vie privée, d’une carte postale, sans enveloppe. Son contenu est, virtuellement, lisible par tous.
 <!--more-->
