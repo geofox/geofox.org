@@ -127,7 +127,7 @@ pluralizeListTitles = false
   dribbble        = ""
   # Publishing Communities
   wordpress       = ""
-  medium          = "@geofox"
+  medium          = "geofox"
   # Professional/Business Oriented Communities
   linkedin        = "geoffreyrichard"
   foursquare      = ""
